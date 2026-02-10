@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "name": "My Notes",
+  "createdAt": "2026-02-10T17:43:56.431Z",
+  "settings": {
+    "trashRetentionDays": 30,
+    "ignorePatterns": [
+      "node_modules",
+      ".git",
+      ".DS_Store"
+    ]
+  }
+}
