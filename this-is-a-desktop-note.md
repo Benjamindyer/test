@@ -1,7 +1,7 @@
 ---
 id: d43a0423-752e-491b-bc33-ce24196849a8
 created: '2026-02-17T14:31:41.689Z'
-modified: '2026-02-17T14:32:49.079Z'
+modified: '2026-02-17T14:32:54.467Z'
 ---
 # this is a desktop note
 
@@ -18,3 +18,9 @@ with all sorts of formatting
 `this is some code`
 
 -   bullet points
+    
+-   over
+    
+-   a
+    
+-   few crs
