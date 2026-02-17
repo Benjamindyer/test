@@ -1,11 +1,15 @@
 ---
 id: b5f9f099-5cab-424a-aca9-474109d7b1e3
 created: '2026-02-16T12:09:56.516Z'
-modified: '2026-02-17T15:47:18.936Z'
+modified: '2026-02-17T15:48:19.921Z'
 ---
 # NICEIC × Powered Now Affiliate Partnership Proposal
 
 **February 2026 - Confidential**
+
+```mermaid
+gantt title Project Plan dateFormat YYYY-MM-DD section Phase 1 Task A :a1, 2025-01-01, 7d Task B :after a1, 5d section Phase 2 Task C :2025-01-14, 6d
+```
 
 ## 1\. Executive Summary
 
