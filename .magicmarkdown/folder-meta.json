@@ -1,3 +1,14 @@
 {
-  "folders": {}
+  "folders": {
+    "New Folder 4": {
+      "color": null,
+      "icon": null,
+      "sortOrder": 1
+    },
+    "New Folder": {
+      "color": null,
+      "icon": null,
+      "sortOrder": 0
+    }
+  }
 }
