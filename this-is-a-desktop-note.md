@@ -1,7 +1,7 @@
 ---
 id: d43a0423-752e-491b-bc33-ce24196849a8
 created: '2026-02-17T14:31:41.689Z'
-modified: '2026-02-17T14:33:57.027Z'
+modified: '2026-02-17T14:34:14.359Z'
 ---
 # this is a desktop note
 
@@ -62,3 +62,5 @@ here is more code
 | --- | --- | --- |
 |     |     |     |
 |     |     |     |
+
+$x^2$
