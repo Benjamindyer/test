@@ -1,7 +1,7 @@
 ---
 id: d43a0423-752e-491b-bc33-ce24196849a8
 created: '2026-02-17T14:31:41.689Z'
-modified: '2026-02-17T14:33:11.886Z'
+modified: '2026-02-17T14:33:22.276Z'
 ---
 # this is a desktop note
 
@@ -24,3 +24,13 @@ with all sorts of formatting
 -   a
     
 -   few crs
+    
+
+1.  lets
+    
+2.  try
+    
+3.  numbers
+    
+
+-   [ ]
