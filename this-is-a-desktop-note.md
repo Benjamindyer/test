@@ -1,7 +1,7 @@
 ---
 id: d43a0423-752e-491b-bc33-ce24196849a8
 created: '2026-02-17T14:31:41.689Z'
-modified: '2026-02-17T14:32:32.635Z'
+modified: '2026-02-17T14:32:45.369Z'
 ---
 # this is a desktop note
 
@@ -14,3 +14,5 @@ with all sorts of formatting
 ***<u>underline</u>***
 
 ***~~<u>strike out</u>~~***
+
+`this is some code`
